@@ -2389,6 +2389,14 @@ footer {
     gap: 20px;
   }
 }
+@media screen and (max-width: 600px) {
+  .dp img {
+    width: 180px;
+    max-width: 70%;
+    height: auto;
+  }
+}
+
 
 /* https://github.com/vi0650 */
 /* responsive code above */
