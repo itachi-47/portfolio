@@ -252,7 +252,7 @@ body {
   transform: translate(0px) scale(1);
 }
 
-#labelforsound {
+/* #labelforsound {
   position: relative;
   display: flex;
   align-items: center;
@@ -265,7 +265,7 @@ body {
   background-position: center;
   cursor: pointer;
   transition-duration: 0.5s;
-}
+} */
 
 .invertapplied {
   filter: invert(1);
